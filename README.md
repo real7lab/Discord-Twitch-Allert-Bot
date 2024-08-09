@@ -101,4 +101,7 @@ The bot logs errors to the console. Ensure you monitor the logs for any issues, 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is developed by [Lab](https://discord.gg/visionn). 
+
+For more details, please refer to our [official discord](https://discord.gg/visionn).
+
